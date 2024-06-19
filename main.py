@@ -1,9 +1,7 @@
-
 from book import Book
 from patron import Patron
 from librarian import Librarian
 from library import Library
-
 
 book1 = Book("Dead Poets Society", "Nancy H. Kleinbaum", "31564567987")
 book2 = Book("Istanbul Hatirasi", "Ahmet Umit", "5793247892")
